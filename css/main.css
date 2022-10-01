@@ -1,0 +1,16 @@
+
+.map{
+    margin: auto;
+    scroll-behavior: auto;
+
+}
+
+.map path{
+    fill: grey;
+    stroke: yellow;
+    stroke-width: 0.3%;
+}
+
+.map :hover{
+    fill: rebeccapurple;
+}
